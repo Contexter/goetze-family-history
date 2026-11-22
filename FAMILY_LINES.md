@@ -4,11 +4,11 @@
 
 The 1856 industry publication describes two owners of **Götze senior und Söhne**, Carl Eduard and Emil Herrmann Götze. In the *Hessische Biografie*, Emil Hermann Götze is connected by a **1857 Frankfurt marriage** to Albertine Friedericke Caroline Brunner. She was a daughter of Lorenz Gottlieb Brunner, a Frankfurt entrepreneur and civic representative.
 
-A published biography describes the physician **Rudolf Götze (1863–1920)** as a son of a weaver/manufacturer named Emil. That is a strong possible link to Emil Hermann, but **Rudolf's own 1863 birth/baptism record has not been checked**. We have not established that Carl Eduard and Emil Hermann were brothers. [Sources S1, S3, S4](SOURCES.md).
+**NEW ORIGINAL RECORD:** The Dresden marriage register **No. 228 of 8 April 1892** identifies Rudolf Emil Fritz Götze's father as **Emil Hermann Götze**, merchant, and his mother as **Albertine Caroline, née Brunner** (one or more given names may still need clarification). Thus Rudolf's parentage is now established by a contemporary civil record, not just a same-name hypothesis. The 1863 baptismal register remains to be seen for godparents and birthplace address. We have not established that Carl Eduard and Emil Hermann were brothers. [Marriage record: evidence summary](MARRIAGE_1892.md). [Sources S1, S3, S4](SOURCES.md).
 
 ## Rudolf and Elsa / Else, née Römmler / Roemmler
 
-Published and family-based records connect Rudolf to **Elsa (Else) Römmler**, whom he married in **1892 according to a secondary biography**. The number of their children remains unresolved in the secondary literature; names frequently associated with the family include **Albrecht, Gottfried, Raimund, Hermann, and Gutrune**. **Gertraute** is a distinct person requiring a verified relationship, not an automatic addition to the list.
+The **Dresden civil marriage record No. 228/1892** directly documents Rudolf's marriage to **Else Römmler on 8 April 1892**. It records **Else's birth on 7 May 1868 in Dresden**, father **Carl Emil Römmler**, photographer, and mother **Johanne** (maiden surname not yet clearly read). Both fathers signed as witnesses. The form **Elsa** appears in later family records; **Else** is the spelling in this marriage register. The number of their children remains unresolved in the secondary literature; names frequently associated with the family include **Albrecht, Gottfried, Raimund, Hermann, and Gutrune**. **Gertraute** is a distinct person requiring a verified relationship, not an automatic addition to the list.
 
 The exact dates and places of births, marriages, and deaths should be supplied from original civil registers whenever possible.
 

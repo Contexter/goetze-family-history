@@ -10,7 +10,7 @@ Welcome, especially to relatives and cousins who are following the research from
 
 Our focus is the Götze / Goetze family, its links to the Römmler / Roemmler and Ulbrich families, and its movements between **Glauchau, Frankfurt, Leipzig, Berlin, Hesse, and the United States**.
 
-In 1856, *Götze senior und Söhne* operated a textile business in Glauchau, Saxony. A later physician, **Rudolf Emil Fritz Götze (1863–1920)**, came from a family described as connected to the weaving trade. The exact archival proof connecting him to the owners described in 1856 is still missing.
+In 1856, *Götze senior und Söhne* operated a textile business in Glauchau, Saxony. A later physician, **Rudolf Emil Fritz Götze (1863–1920)**, came from a family described as connected to the weaving trade. **A newly examined original marriage register from Dresden (8 April 1892, No. 228) now identifies his parents directly as Emil Hermann Götze and Albertine, née Brunner.** It also identifies his wife Else Römmler and her photographer father Carl Emil Römmler. [Read the evidence summary](MARRIAGE_1892.md).
 
 Our work also documents difficult history. Rudolf Götze was publicly involved in an **antisemitic campaign in 1893–1894** against the Jewish Schmul family's legally approved use of the surname Goetze. We report this directly, using contemporary newspapers and historical scholarship; we do not attribute ancestral beliefs or actions to descendants.
 
