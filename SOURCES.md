@@ -1,0 +1,19 @@
+# Selected historical sources and their verification status
+
+This is a reading guide, not a claim that every original was personally examined. **Text viewed** means a public edition or transcription was read; **catalogue** means the work was identified but not fully read; **secondary** means a historian's account; **index** means a transcription, not a full civil certificate.
+
+| ID | Source | What it supports / limits |
+| --- | --- | --- |
+| **S1** | [*Götze senior und Söhne*, *Album der Sächsischen Industrie*, vol. 1 (1856), pp. 149–150 — Wikisource transcription](https://de.wikisource.org/wiki/G%C3%B6tze_senior_und_S%C3%B6hne) | Text viewed. Business, ownership, production and market description; the firm's own contemporary presentation is not a financial statement. |
+| **S2** | [1856 lithograph *Götze senior und Söhne* — Wikimedia Commons, plate 0291](https://commons.wikimedia.org/wiki/File:Album_der_S%C3%A4chsischen_Industrie_Band_1_0291.jpg) | Caption and file metadata checked. **Not** the similarly named Seydel & Söhne plate 0329. Not a portrait of Rudolf. |
+| **S3** | [*Hessische Biografie*: Lorenz Gottlieb Brunner](https://lagis.hessen.de/de/personen/hessische-biografie/alle-eintraege/13817_brunner-lorenz-gottlieb) | Secondary genealogical source. Emil Hermann Götze and Albertine Brunner's 1857 Frankfurt marriage; original HStAM marriage entry not yet viewed. |
+| **S4** | [Rudolf Götze — overview biography](https://de.wikipedia.org/wiki/Rudolf_G%C3%B6tze) | Secondary overview for birth/death and career. It cannot replace the church or civil registers. |
+| **S5** | [1888 published Wagner lecture attributed to Rudolf Goetze — Google Books catalogue](https://books.google.com/books?id=21dCAAAAYAAJ) | Original publication identified. Relevant pages, including the society's first activity report, **not yet read**; no proof of formal society membership. |
+| **S6** | [*Israelitische Wochen-Schrift*, 13 October 1893, p. 321](https://sammlungen.ub.uni-frankfurt.de/cm/download/pdf/5962236) | Contemporary reproduction of Rudolf's letter dated 26 August 1893. Newspaper text viewed; handwritten original not located. |
+| **S7** | [*Der Israelit*, 19 February 1894](https://sammlungen.ub.uni-frankfurt.de/cm/download/pdf/2448426) and [Leo Spitzer, 2010, pp. 21–31](https://leospitzer.net/wp-content/uploads/2016/02/leospitzer.NameGivenNameTaken.pdf) | Contemporary account and historical analysis of the organized, antisemitic Schmul–Goetze surname protest. |
+| **S8** | [Gertraute Goetze's 1937 application, *We Refugees Archive*](https://we-refugees-archive.org/archive/gertraute-goetzes-bewerbung-bei-der-american-guild-gertraute-goetze/) and [Kalliope archive record](https://kalliope.staatsbibliothek-berlin.de/de/ead?ead.id=DE-101e-1278098208) | Published self-testimony and catalogue records. Relationship to Rudolf and Elsa still unresolved. |
+| **S9** | [Jane Caplan, *What's in a Name?* (2014)](https://www.gresham.ac.uk/watch-now/whats-name-more-you-might-think) | Historical analysis of Nazi pressure on the **Jewish** Goetze family to revert to Schmul in 1938/39; references Bundesarchiv R 1501/127444. No genealogical equivalence assumed. |
+| **S10** | [Raimund Götze biographical account, Torelló](https://elcosidordigital.blogspot.com/2012/10/raimund-gotze.html) | Secondary local history: 1899 birth, later Spain/Venezuela. Source requires cross-checking against original birth records. |
+| **S11** | [California death-index transcription: Gutrune Falckon (1903–1989)](https://californiadeathrecords.com/death/gutrune_falckon_born_1903_died_1989_7387254) | Third-party index, **not** an official death certificate. Provides paternal surname Goetze and maternal maiden surname Roemmler; no parents' given names. |
+
+Corrections should name the specific source, page, archive number, and any limits to its reliability. Please do not upload copyrighted scans or private family documents without permission.
