@@ -16,6 +16,11 @@ Our work also documents difficult history. Rudolf Götze was publicly involved i
 
 Research into later generations includes a promising **California lead for Gutrune Goetze / Falckon**, and archival material about **Gertraute Goetze-Fischer** in New York. Family connections must be confirmed by records, not just matching names.
 
+
+## Family-supplied images
+
+Three original scans have been contributed: a [portrait captioned “Rudolf Goetze, age 23”](photos/Rudolph%20Goetze/IMG_4951.jpeg) and [both halves of an American passenger manifest](MEDIA.md). See the [media catalogue](MEDIA.md) for the preserved images, SHA-256 checksums and unanswered questions about provenance and identities.
+
 ## Join the research
 
 If you are one of our American cousins, your family papers and recollections may hold exactly the evidence that German archives lack: names written on photographs, dates of immigration, stories of correspondence, letters, and spelling changes.

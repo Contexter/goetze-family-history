@@ -18,3 +18,5 @@ This is a reading guide, not a claim that every original was personally examined
 | **S11** | [California death-index transcription: Gutrune Falckon (1903–1989)](https://californiadeathrecords.com/death/gutrune_falckon_born_1903_died_1989_7387254) | Third-party index, **not** an official death certificate. Provides paternal surname Goetze and maternal maiden surname Roemmler; no parents' given names. |
 
 Corrections should name the specific source, page, archive number, and any limits to its reliability. Please do not upload copyrighted scans or private family documents without permission.
+
+| **S13** | [Family-contributed original image files (23 November 2026)](MEDIA.md) | Original JPEGs with SHA-256 integrity checks: captioned portrait “Rudolf Goetze, age 23,” and two halves of a historical U.S. passenger manifest. Photographer, original archival record, passenger identities and reproduction provenance unverified. |
