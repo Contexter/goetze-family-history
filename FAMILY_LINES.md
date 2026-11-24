@@ -1,5 +1,7 @@
 # Family lines and the American connection
 
+[Browse the Götze and Römmler family tree charts](charts/README.md).
+
 ## The Glauchau line
 
 The 1856 industry publication describes two owners of **Götze senior und Söhne**, Carl Eduard and Emil Herrmann Götze. In the *Hessische Biografie*, Emil Hermann Götze is connected by a **1857 Frankfurt marriage** to Albertine Friedericke Caroline Brunner. She was a daughter of Lorenz Gottlieb Brunner, a Frankfurt entrepreneur and civic representative.
