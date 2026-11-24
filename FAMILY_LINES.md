@@ -18,7 +18,9 @@ The exact dates and places of births, marriages, and deaths should be supplied f
 
 An index transcription for **Gutrune Falckon (1903–1989)** reports a death in **Alameda County, California** and gives the father's surname as **Goetze** and mother's maiden surname as **Roemmler**. This rare combination makes her association with the Rudolf–Elsa family highly plausible. Nevertheless, **the index does not provide the parents' first names**, and we have not inspected the official death certificate.
 
-The names **Falcke** and **Falckon** also occur in tentative marriage and later-life leads; their relationship must be resolved before declaring a marriage or migration timeline. [Source S11](SOURCES.md).
+**Newly admitted original records (contributed by Helmut Raether):** The passenger manifest documents arrival in New York on 13 July 1938 aboard the S.S. Statendam from Rotterdam. The signed declaration of intention, dated 14 October 1938, identifies Gutrune Goetze as born in Naunhof on 8 June 1903, with Berlin as her last foreign residence. This is a declaration of intention, not proof of completed naturalization. The manifest names a brother H. Goetze in Berlin and a sister G. Fischer in New York; these entries support, but do not alone establish, the proposed identifications with Hermann and Gertraute.
+
+The contributed marriage record summary identifies Manhattan marriage license 22738 (1942). The relationship between the names Falcke and Falckon and the later California death record still needs to be resolved. [Source S11](SOURCES.md). [Browse the immigration and marriage records, scans, and source credits](records/Getrune%20Goetze/README.md).
 
 ## A separate exile trail: Gertraute
 
@@ -26,6 +28,6 @@ The names **Falcke** and **Falckon** also occur in tentative marriage and later-
 
 ## What US relatives might be able to answer
 
-Do you have dated letters, family Bibles, photo inscriptions, passenger records, naturalization certificates, obituaries, or memories that might identify **Gutrune's birthplace and parents** or connect people across Germany and the US?
+Do you have dated letters, family Bibles, photo inscriptions, passenger records, naturalization certificates, obituaries, or memories that might confirm **Gutrune's parentage and later life**, establish the identities of the relatives named in the 1938 manifest, or connect people across Germany and the US?
 
 Please [contribute a lead](CONTRIBUTING.md). Avoid sharing any living person's full date of birth, private address, medical history, or identifying documents in a public issue.
